@@ -1,2 +1,0 @@
-creates test3.txt
-test4.txt may be created or not
